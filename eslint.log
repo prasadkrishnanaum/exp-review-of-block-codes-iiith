@@ -1,0 +1,35 @@
+
+/home/runner/work/exp-review-of-block-codes-iiith/exp-review-of-block-codes-iiith/experiment/simulation/js/main.js
+    8:10  warning  'toggleBit' is defined but never used          no-unused-vars
+   14:10  warning  'toggleCodewordBit' is defined but never used  no-unused-vars
+   20:10  warning  'toggleReceivedBit' is defined but never used  no-unused-vars
+   26:10  warning  'display' is defined but never used            no-unused-vars
+   39:10  warning  'initial' is defined but never used            no-unused-vars
+   42:11  warning  'form1' is assigned a value but never used     no-unused-vars
+   49:5   warning  'cTransmitted' is not defined                  no-undef
+   50:5   warning  'decodedEntered' is not defined                no-undef
+   54:5   warning  'part3' is not defined                         no-undef
+   55:5   warning  'part4' is not defined                         no-undef
+   62:5   warning  'form3' is not defined                         no-undef
+   63:5   warning  'form4' is not defined                         no-undef
+   67:10  warning  'check' is defined but never used              no-unused-vars
+   70:11  warning  'obs' is assigned a value but never used       no-unused-vars
+   86:9   warning  'part1' is not defined                         no-undef
+   87:9   warning  'part2' is not defined                         no-undef
+   88:9   warning  'part3' is not defined                         no-undef
+  107:10  warning  'transmit' is defined but never used           no-unused-vars
+  111:11  warning  'obs' is assigned a value but never used       no-unused-vars
+  133:5   warning  'part1' is not defined                         no-undef
+  134:5   warning  'part2' is not defined                         no-undef
+  135:5   warning  'part3' is not defined                         no-undef
+  136:5   warning  'part4' is not defined                         no-undef
+  140:10  warning  'checkReceived' is defined but never used      no-unused-vars
+  163:5   warning  'isCorrect' is not defined                     no-undef
+  166:13  warning  'isCorrect' is not defined                     no-undef
+  168:10  warning  Unnecessary semicolon                          no-extra-semi
+  171:29  warning  'isCorrect' is not defined                     no-undef
+  173:9   warning  'isCorrect' is not defined                     no-undef
+
+✖ 29 problems (0 errors, 29 warnings)
+  0 errors and 1 warning potentially fixable with the `--fix` option.
+
